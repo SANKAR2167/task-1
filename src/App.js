@@ -9,8 +9,10 @@ function App() {
           <div className='row'>
             <div className='col-md-4'>
               <div className='sm'>
+              <div  className='header'>
                 <h6>FREE</h6>
-                <h2>$0 <span className='month'><sub>/month</sub></span></h2>
+                <h2>$0 <span><sub>/month</sub></span></h2>
+                </div>
                 <br/>
                 <hr/>
                 <ul className='fa-ul'>
@@ -34,8 +36,10 @@ function App() {
             </div>
             <div className='col-md-4'>
               <div className='sm'>
+                <div  className='header'>
                 <h6>PLUS</h6>
-                <h2>$9 <span className='month'><sub>/month</sub></span></h2>
+                <h2>$9 <span><sub>/month</sub></span></h2>
+                </div>
                 <br/>
                 <hr/>
                 <ul class="fa-ul">
@@ -56,8 +60,10 @@ function App() {
             </div>
             <div className='col-md-4'>
               <div className='sm'>
+              <div  className='header'>
                 <h6>PRO</h6>
-                <h2>$49 <span className='month'><sub>/month</sub></span></h2>
+                <h2>$49 <span><sub>/month</sub></span></h2>
+                </div>
                 <br/>
                 <hr/>
                 <ul class="fa-ul">
