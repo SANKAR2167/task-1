@@ -7,7 +7,7 @@ function App() {
       <div className='box'>
         <div className='container'>
           <div className='row'>
-            <div className='col-md-6'>
+            <div className='col-md-4'>
               <div className='sm'>
                 <h6>FREE</h6>
                 <h2>$0 <span className='month'><sub>/month</sub></span></h2>
