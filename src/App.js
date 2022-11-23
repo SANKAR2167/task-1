@@ -11,6 +11,8 @@ function App() {
               <div className='sm'>
                 <h6>FREE</h6>
                 <h2>$0 <h6><sub>/month</sub></h6></h2>
+                <br/>
+                <hr/>
               </div>
             </div>
           </div>
