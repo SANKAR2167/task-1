@@ -12,3 +12,7 @@
 .d-grid{
     text-align: center;
 }
+
+.box .sm:hover .btn{
+    opacity: 1;
+}
