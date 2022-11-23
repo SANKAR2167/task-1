@@ -8,6 +8,8 @@
 .header{
     text-align: center;
 }
-.name{
-    font-weight: bold;
+
+.d-grid{
+    align-items: center;
+    border-width: 100%;
 }
