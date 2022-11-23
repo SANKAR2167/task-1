@@ -10,7 +10,7 @@ function App() {
             <div className='col-md-6'>
               <div className='sm'>
                 <h6>FREE</h6>
-                <h2>$0 <span><b><sub>/month</sub></b></span></h2>
+                <h2>$0 <span><sub>/month</sub></span></h2>
                 <br/>
                 <hr/>
               </div>
