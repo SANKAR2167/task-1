@@ -8,7 +8,7 @@ function App() {
         <div className='container'>
           <div className='row'>
             <div className='col-md-4'>
-              <div className="card border-primary mb-3" style={"max-width: 25rem;"}>
+              <div className='sm'>
                 <h6>FREE</h6>
                 <h2>$0 <span className='month'><sub>/month</sub></span></h2>
                 <br/>
